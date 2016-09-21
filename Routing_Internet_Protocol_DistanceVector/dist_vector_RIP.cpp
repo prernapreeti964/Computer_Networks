@@ -2,7 +2,7 @@
  * dist_vector_rip.cpp
  *
  *  Created on: Nov 7, 2015
- *      Author: Prerna, Shruti
+ *      Author: Prerna
  */
 /* A simple RIP protocol implementing distance vector using Bellman-Ford algortihm.
    The config file,port number,TTL,period and split-horizon is passed as an argument */
